@@ -6,6 +6,15 @@ Magic Lantern module.
 This project adapts Doom550D to the Canon EOS 700D / Rebel T5i and has been
 tested on real hardware with Canon firmware 1.1.5.
 
+## Demo on real hardware
+
+Canon EOS 700D / Rebel T5i (firmware 1.1.5) running the port on real hardware.
+
+
+
+https://github.com/user-attachments/assets/329beb9d-8cfb-4b3a-a42c-8f11ac3d22fb
+
+
 ## Status
 
 Playable on the Canon EOS 700D / Rebel T5i.
