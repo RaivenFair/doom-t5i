@@ -12,7 +12,11 @@ Canon EOS 700D / Rebel T5i (firmware 1.1.5) running the port on real hardware.
 
 
 
-https://github.com/user-attachments/assets/329beb9d-8cfb-4b3a-a42c-8f11ac3d22fb
+
+
+https://github.com/user-attachments/assets/3d900d3c-4ad1-462f-b3b1-37f292958cd2
+
+
 
 
 ## Status
